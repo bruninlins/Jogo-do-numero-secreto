@@ -22,7 +22,7 @@
 
 <br>
 
-<h2>🎯 Como Jogar</h2>
+<h2>Como Jogar🎯</h2>
 
 <br>
 
@@ -38,7 +38,7 @@ Ao acertar, o botão Novo Jogo será ativado para recomeçar a partida.
 
 <br>
 
-<h2>🛠 Funcionalidades</h2>
+<h2>Funcionalidades🛠</h2>
 
 <br>
 
@@ -52,7 +52,19 @@ Ao acertar, o botão Novo Jogo será ativado para recomeçar a partida.
 
 <br>
 
-<h2>▶️ Como Executar</h2>
+<h2>Captura de Tela🖼️</h2>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/a8076786-7b93-42e7-8c09-91895c4a49ba)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/07cde2d5-6577-4653-868a-952a355a198a)
+
+<br>
+
+<h2>Como Executar▶️</h2>
 
 <br>
 
@@ -64,7 +76,7 @@ Divirta-se tentando adivinhar o número secreto! 🔢
 
 <br>
 
-<h2>🔮 Melhorias Futuras</h2>
+<h2>Melhorias Futuras🔮</h2>
 
 <br>
 
@@ -76,4 +88,14 @@ Divirta-se tentando adivinhar o número secreto! 🔢
 
 <br>
 
-<h2>💻 Desenvolvido por [Seu Nome] com ❤️ e JavaScript! 🚀</h2>
+<h2>Licença📄</h2>
+
+<br>
+
+<p>Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.</p>
+
+<p>Você tambem pode acessar o jogo por aqui: <a href="https://jogo-do-numero-secreto-olive-omega.vercel.app/"> Jogo</a></p>
+
+<br>
+
+<h2 align="center">💻Desenvolvido por Bruno Torres! Com ❤️ e JavaScript!🚀</h2>
