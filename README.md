@@ -56,12 +56,17 @@ Ao acertar, o botão Novo Jogo será ativado para recomeçar a partida.
 
 <br>
 
-![image](https://github.com/user-attachments/assets/a8076786-7b93-42e7-8c09-91895c4a49ba)
+<div align="center">
+<img src="https://github.com/user-attachments/assets/a8076786-7b93-42e7-8c09-91895c4a49ba" width="900">
+</div>
 
 <br>
 
-![image](https://github.com/user-attachments/assets/07cde2d5-6577-4653-868a-952a355a198a)
+<div align="center">
+<img src="https://github.com/user-attachments/assets/a77dbec7-9539-4b9d-b577-0fa4f616d9cf" height="500">
+</div>
 
+ 
 <br>
 
 <h2>Como Executar▶️</h2>
@@ -72,7 +77,7 @@ Clone este repositório ou baixe os arquivos.
 
 Abra o arquivo index.html em um navegador.
 
-Divirta-se tentando adivinhar o número secreto! 🔢
+Divirta-se tentando adivinhar o número secreto!
 
 <br>
 
